@@ -1,2 +1,0 @@
-Alx specialization: javascript
-
